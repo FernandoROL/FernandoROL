@@ -7,7 +7,7 @@
 <h3 align="center">Hey! I'm Fernando</h3>
 <h4 align="center">Web Developer</br></br></h4>
 
-<h5 align="center">I'm currently specialized in developing web applications while expanding my expertise in cloud architecture and cybersecurity. Currently focused on cloud platforms and dev ops such as AWS and Kubernetes. Passionate about networks and cybersecurity.</h5>
+<h5 align="center">Currently specialized in developing web applications while expanding my expertise in cloud architecture and cybersecurity. Currently focused on cloud platforms and dev ops such as AWS and Kubernetes. Passionate about networks and cybersecurity.</h5>
 
 ###
 
