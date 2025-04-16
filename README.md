@@ -25,6 +25,8 @@
 
 &nbsp;
 
+<hr>
+
 &nbsp;
 
 <h2 align="left">🌐 Programing Languages</h2>
